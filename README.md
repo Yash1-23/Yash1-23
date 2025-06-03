@@ -27,7 +27,7 @@
 `Python | PyTorch | Transformers | NLP | Streamlit`
 
 #### 🧠 Sentiment & Emotion Analysis for Hindi and Telugu
-> Designed a multilingual NLP pipeline to classify both sentiment and emotion using machine learning and deep learning models including LSTM, BERT, and CNN.  
+> Designed a multilingual NLP pipeline to classify both sentiment and emotion using machine learning and deep learning models including LSTM , BERT, and CNN.  
 > Achieved significantly improved accuracy using IndicBERT embeddings for under-resourced Indian languages.  
 `IndicBERT | Transformers | PyTorch | LSTM | CNN | Hindi | Telugu`
 
@@ -75,11 +75,11 @@
 ### 📈 GitHub Stats
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yashwanth2431&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yash1-23&show_icons=true&theme=radical" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwanth2431&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash1-23&layout=compact&theme=radical" />
 </p>
 
 ---
