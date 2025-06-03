@@ -50,7 +50,7 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yashwanth2431&show_icons=true&locale=en" alt="Yashwanth2431 stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yash1-23&show_icons=true&locale=en" alt="Yash1-23 stats" />
 </p>
 
 
