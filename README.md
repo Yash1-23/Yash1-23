@@ -41,7 +41,7 @@
 
 #### 🧪 **Machine Learning Intern @ Reliance Jio**  
 **Duration:** Aug 2024 – Dec 2024  
-- Developed a Visual Search System for jewelry using VGG16, PCA, and HSV/LAB histograms.
+- Developed a Visual Search System for jewellery using VGG16, PCA, and HSV/LAB histograms.
 - Achieved a 20% improvement in image retrieval accuracy with PCA and cosine similarity.
 - Integrated the system using Streamlit for real-time web deployment.
 
