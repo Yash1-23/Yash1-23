@@ -12,7 +12,7 @@
 
 ### 🧠 About Me
 
-- 🎓 Final Year MCA  Student | ML Enthusiast  
+- 🎓 Graduated MCA Student | ML Enthusiast  
 - 💡 Working on Object Detection, NLP & Visual Search Systems  
 - 💬 Ask me about Python, Machine Learning, Deep Learning, NLP  
 - 📫 Reach me at: **yashwanthsinghgarandal@gmail.com**  
