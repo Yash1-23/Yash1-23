@@ -16,7 +16,7 @@
 - 💡 Working on Object Detection, NLP & Visual Search Systems  
 - 💬 Ask me about Python, Machine Learning, Deep Learning, NLP  
 - 📫 Reach me at: **yashwanthsinghgarandal@gmail.com**  
-- 🌐 Portfolio (coming soon) | 💼 Open to full-time/internship roles in ML/AI/Data
+- | 💼 Open to full-time/internship roles in ML/AI/Data
 
 ---
 
