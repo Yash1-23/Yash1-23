@@ -13,7 +13,7 @@
 ### 🧠 About Me
 
 - 🎓 Graduated MCA Student | ML Enthusiast  
-- 💡 Working on Object Detection, NLP & Visual Search Systems  
+- 💡 Working on RAG and LLM systems,NLP & Visual Search Systems  
 - 💬 Ask me about Python, Machine Learning, Deep Learning, NLP  
 - 📫 Reach me at: **yashwanthsinghgarandal@gmail.com**  
 - | 💼 Open to full-time/internship roles in ML/AI/Data
@@ -31,7 +31,7 @@
 > Achieved significantly improved accuracy using IndicBERT embeddings for under-resourced Indian languages.  
 `IndicBERT | Transformers | PyTorch | LSTM | CNN | Hindi | Telugu`
 
-#### 💎 Visual Search System for Jewelry
+#### 💎 Visual Search System for Jewellery
 > Implemented VGG16 + PCA + HSV/LAB histograms for accurate product-based image search.  
 `VGG16 | PCA | OpenCV | Streamlit | Cosine Similarity`
 
