@@ -31,7 +31,7 @@ I enjoy building intelligent systems that combine machine learning, retrieval, r
 
 # 🚀 Featured Projects
 
-## 🔹 ClaimFlow — AI-Powered Expense Claim Management System Deployed Link: claimflow-production-176f.up.railway.app
+## 🔹 ClaimFlow — AI-Powered Expense Claim Management System Deployed 
 
 Production-grade AI workflow platform that automates expense claim processing using OCR, fraud detection, policy validation, and intelligent decision pipelines.
 
