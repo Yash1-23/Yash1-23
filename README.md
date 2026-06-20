@@ -196,34 +196,6 @@ PyTorch • TensorFlow • Scikit-Learn • Keras • Streamlit
 
 Git • GitHub • Railway
 
----
-
-# 🏗 Production Experience
-
-### AI Systems
-
-* Production AI Applications
-* Retrieval-Augmented Generation
-* Agentic Workflows
-* Multi-Agent Systems
-* Hybrid Retrieval Systems
-* LLM Evaluation
-
-### Deployment
-
-* Railway Deployment
-* REST API Development
-* API Documentation
-* Backend Architecture Design
-* Database Integration
-
-### AI Engineering
-
-* End-to-End AI Pipelines
-* Model Integration
-* Prompt Engineering
-* System Evaluation
-* Observability & Monitoring
 
 ---
 
